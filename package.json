@@ -1,10 +1,10 @@
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "Yazawa",
+  "description": "Nico Nico Nii!!",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "NadekoBot-1.9 bot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "visual studio code NadekoBot-1.9 bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
