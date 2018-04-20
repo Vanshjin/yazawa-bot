@@ -2,9 +2,9 @@
   "name": "Yazawa",
   "description": "Nico Nico Nii!!",
   "version": "0.0.0",
-  "main": "NadekoBot-1.9 bot.js",
+  "main": "NadekoBot-1.9.js",
   "scripts": {
-    "start": "node NadekoBot-1.9 bot.js"
+    "start": "node NadekoBot-1.9.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
