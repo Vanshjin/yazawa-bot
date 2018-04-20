@@ -1,2 +1,5 @@
-# yazawa-bot
-yazawa bot for hosting it 24/7
+Hey!
+
+This is just another Nadeko clone except it's Nico.
+
+This exists here to host it 24/7.
