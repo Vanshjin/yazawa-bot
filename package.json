@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "main": "NadekoBot-1.9 bot.js",
   "scripts": {
-    "start": "visual studio code NadekoBot-1.9 bot.js"
+    "start": "node NadekoBot-1.9 bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
